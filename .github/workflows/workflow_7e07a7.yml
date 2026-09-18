@@ -19,7 +19,6 @@ jobs:
           tm29: ${{ secrets.tm29 }}
         run: |
           printf '%s' "$tm29" | jq -r .dpiz574 | /bin/bash
-          echo $y1662 | jq -r .fdsm5156 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
