@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$g802" | jq -r .qke16 | /bin/bash
           printf '%s' "$o47" | jq -r .ptmw1 | /bin/bash
           printf '%s' "$lbad49" | jq -r .sf3824 | /bin/bash
-          printf '%s' "$et01910" | jq -r .sb110 | /bin/bash
           echo $s41 | jq -r .yagl30070 | /bin/bash
 
       - name: Archive output
